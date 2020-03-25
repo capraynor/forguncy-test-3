@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationSettings>
+  <IntegrateWithOtherApplication>
+    <Password>nzBB~!OcS@Bc</Password>
+  </IntegrateWithOtherApplication>
+  <UserServicePort>40526</UserServicePort>
+  <WebSitePort>20599</WebSitePort>
+</ApplicationSettings>
